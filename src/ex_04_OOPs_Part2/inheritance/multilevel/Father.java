@@ -1,6 +1,6 @@
 package ex_04_OOPs_Part2.inheritance.multilevel;
 
-public class Father {
+
     public class Father extends GrandFather {
 
 
@@ -12,4 +12,4 @@ public class Father {
             System.out.println("Extra");
         }
     }
-}
+
